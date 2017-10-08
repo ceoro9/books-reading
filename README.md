@@ -1,2 +1,4 @@
 # must-have-read
-Books I've read or plan to read.
+
+Core Java Volume I - Fundamentals (Cay S. Horstmann, Gary Cornell)
+Core Java Volume II - Advanced Features (Cay S. Horstmann, Gary Cornell)
