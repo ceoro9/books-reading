@@ -7,3 +7,5 @@
 * Essential Algorithms. A practical approach to computer algorithms (Rod Stephens)
 
 * Unix and Linux system administration handbook (Evi Nemeth, Garth Snyder, Trent R. Hein, Ben Whaley)
+
+* Beginning Java EE (Antonio Goncalves)
