@@ -1,11 +1,13 @@
 # My Library
 
-* Core Java Volume I - Fundamentals (Cay S. Horstmann, Gary Cornell)
+- [x] Core Java Volume I - Fundamentals (Cay S. Horstmann, Gary Cornell)
 
-* Core Java Volume II - Advanced Features (Cay S. Horstmann, Gary Cornell)
+- [x] Core Java Volume II - Advanced Features (Cay S. Horstmann, Gary Cornell)
 
-* Essential Algorithms. A practical approach to computer algorithms (Rod Stephens)
+- [x] Essential Algorithms. A practical approach to computer algorithms (Rod Stephens)
 
-* Unix and Linux system administration handbook (Evi Nemeth, Garth Snyder, Trent R. Hein, Ben Whaley)
+- [x] Unix and Linux system administration handbook (Evi Nemeth, Garth Snyder, Trent R. Hein, Ben Whaley)
 
-* Beginning Java EE (Antonio Goncalves)
+- [ ] Beginning Java EE (Antonio Goncalves)
+
+- [ ] Front-End Web Development. The Big Nerd Ranch Guide (Chris Aquino, Todd Gandee)
