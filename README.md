@@ -11,3 +11,5 @@
 - [ ] Beginning Java EE (Antonio Goncalves)
 
 - [ ] Front-End Web Development. The Big Nerd Ranch Guide (Chris Aquino, Todd Gandee)
+
+- [x] Introducing Python (Bill Lubanovic)
