@@ -13,3 +13,9 @@
 - [ ] Front-End Web Development. The Big Nerd Ranch Guide (Chris Aquino, Todd Gandee)
 
 - [x] Introducing Python (Bill Lubanovic)
+
+- [ ] Beginning Django. Web Application Development and Deployment with Python (Daniel Rubio) 
+
+- [ ] PostgreSQL для начинающих (П.Лузанов, Е.Рогов, И.Левшин)
+
+- [ ] The Art of Computer Programming Volume 1 (Donald E. Knuth)
