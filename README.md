@@ -14,7 +14,7 @@
 
 - [x] Introducing Python (Bill Lubanovic)
 
-- [ ] Beginning Django. Web Application Development and Deployment with Python (Daniel Rubio) 
+- [x] Beginning Django. Web Application Development and Deployment with Python (Daniel Rubio) 
 
 - [ ] PostgreSQL для начинающих (П.Лузанов, Е.Рогов, И.Левшин)
 
