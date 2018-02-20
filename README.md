@@ -16,6 +16,8 @@
 
 - [x] Beginning Django. Web Application Development and Deployment with Python (Daniel Rubio) 
 
-- [ ] PostgreSQL для начинающих (П.Лузанов, Е.Рогов, И.Левшин)
+- [x] PostgreSQL для начинающих (П.Лузанов, Е.Рогов, И.Левшин)
 
 - [ ] The Art of Computer Programming Volume 1 (Donald E. Knuth)
+
+- [x] Introduction to Tornado (Michael Dory, Adam Parrish, Brendan Berg)
