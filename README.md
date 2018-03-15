@@ -21,3 +21,5 @@
 - [ ] The Art of Computer Programming Volume 1 (Donald E. Knuth)
 
 - [x] Introduction to Tornado (Michael Dory, Adam Parrish, Brendan Berg)
+
+- [ ] Mastering Postgresql 10 (Hans-Jürgen Schönig)
