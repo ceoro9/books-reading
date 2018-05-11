@@ -23,3 +23,7 @@
 - [x] Introduction to Tornado (Michael Dory, Adam Parrish, Brendan Berg)
 
 - [ ] Mastering Postgresql 10 (Hans-Jürgen Schönig)
+
+- [x] Язык SQL. Базовый курс (Е.П. Моргунов)
+
+- [ ] Python Tricks: The Book (Dan Bader)
