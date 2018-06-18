@@ -26,4 +26,4 @@
 
 - [x] Язык SQL. Базовый курс (Е.П. Моргунов)
 
-- [ ] Python Tricks: The Book (Dan Bader)
+- [x] Python Tricks: The Book (Dan Bader)
