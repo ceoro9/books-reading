@@ -29,3 +29,5 @@
 - [x] Python Tricks: The Book (Dan Bader)
 
 - [x] Two Scoops of Django 1.11. Best Practices for Django (Daniel Roy Greenfeld, Audrey Roy Greenfeld)
+
+- [x] React in Action (Mark Tielens Thomas)
