@@ -33,3 +33,5 @@
 - [x] React in Action (Mark Tielens Thomas)
 
 - [x] Node.js Web Development (David Herron)
+
+- [x] Express in Action (Evan M.Hahn)
