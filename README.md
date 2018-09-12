@@ -35,3 +35,5 @@
 - [x] Node.js Web Development (David Herron)
 
 - [x] Express in Action (Evan M.Hahn)
+
+- [x] Redux in Action (Marc Garreau, Will Faurot) 
