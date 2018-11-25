@@ -36,10 +36,12 @@
 
 - [x] Express in Action (Evan M.Hahn)
 
-- [x] Redux in Action (Marc Garreau, Will Faurot) 
+- [x] Redux in Action (Marc Garreau, Will Faurot)
 
 - [x] Mastering Go (Mihalis Tsoukalos)
 
 - [x] Go Web Programming (Sau Sheong Chang)
 
 - [x] Cloud Native programming with Golang (Mina Andrawos, Martin Helmich)
+
+- [x] Hands-On Severless Applications with Go (Mohamed Labouardy)
