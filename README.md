@@ -45,3 +45,5 @@
 - [x] Cloud Native programming with Golang (Mina Andrawos, Martin Helmich)
 
 - [x] Hands-On Severless Applications with Go (Mohamed Labouardy)
+
+- [x] Elixir in Action (Sasa Juric)
