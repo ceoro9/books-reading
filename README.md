@@ -47,3 +47,7 @@
 - [x] Hands-On Severless Applications with Go (Mohamed Labouardy)
 
 - [x] Elixir in Action (Sasa Juric)
+
+- [ ] Structure and Interpretation of Computer Programs (Harold Abelson and Gerald Jay Sussman with Julie Sussman)
+
+- [ ] The Elements of Computing Systems (Shimon Schocken, Noam Nisan)
